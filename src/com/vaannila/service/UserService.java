@@ -4,5 +4,5 @@ import com.vaannila.domain.User;
 
 public interface UserService {
 
-	public void add(User abhi);
+	public void add(User abhi321);
 }
